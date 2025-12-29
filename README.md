@@ -2,6 +2,8 @@
 
 A Spring Boot–based banking backend application that provides core banking functionalities such as account management, transactions, fixed deposits, card applications, authentication, and system health monitoring.
 
+Build Backend using Springboot, Hibernate (MySql), Log4J, Jwt, Exception Handling
+
 ## 🚀 Features
 - User authentication using JWT
 - Account creation and management
